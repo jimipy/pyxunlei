@@ -36,7 +36,7 @@ class DownTaskParam(Structure):
     ]
 
 """
-stat 参数是 enum 的python 实现
+stat 参数是 python 实现类 enum
 """
 stat = {
     0: lambda: 'NOITEM',
